@@ -1,10 +1,10 @@
-/ *
+/*
   * Written on a boring evening, on my journey to learn a bit of mathematics
   * Wanted to get an impression of how big numbers really can be
   *
   * (C) 2021 - Mario Iseli <mario@marioiseli.com>
   * 
-  * /
+*/
 
 #include <gmp.h>
 #include <stdio.h>
